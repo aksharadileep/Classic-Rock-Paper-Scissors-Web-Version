@@ -23,17 +23,18 @@ An animated and modern Rock Paper Scissors web game built using:
 ## 📂 Project Structure
 
 stone-paper-scissors-pro/
-│── index2.html
+│── index.html
 │
 │── README.md
 
 ## 🛠️ How to Run
 
-Just open `index2.html` in your browser.
+Just open `index.html` in your browser.
 
 ---
 
 Made with ❤️ by Akshara                                                                                                                                                                                              
 <img width="888" height="685" alt="image" src="https://github.com/user-attachments/assets/7f9cfc86-c8e5-4cb1-bf57-501d4d2031f2" />
+
 
 
