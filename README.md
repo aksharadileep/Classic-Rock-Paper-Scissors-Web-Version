@@ -33,4 +33,7 @@ Just open `index2.html` in your browser.
 
 ---
 
-Made with ❤️ by Akshara
+Made with ❤️ by Akshara                                                                                                                                                                                              
+<img width="888" height="685" alt="image" src="https://github.com/user-attachments/assets/7f9cfc86-c8e5-4cb1-bf57-501d4d2031f2" />
+
+
