@@ -138,6 +138,13 @@ ensuring a seamless gaming experience across multiple screen sizes.
 * Beginner-Friendly Code Structure
 
 ---
+🌐 Live Demo
+
+Play the game online:
+
+🔗 Live Website: https://aksharadileep.github.io/Classic-Rock-Paper-Scissors-Web-Version/
+
+Experience the interactive Rock Paper Scissors game with modern animations, responsive design, multiplayer support, and real-time score tracking directly in your browser.
 
 # 👩‍💻 Author
 
